@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "alias": "toms-bookmarks-app",
+  "alias": "singhs-bookmarks-app",
   "name": "bookmarks-app",
   "routes": [
       {
